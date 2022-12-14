@@ -1,0 +1,15 @@
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\bin\Debug\net6.0\Exercicio 6 aula.exe
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\bin\Debug\net6.0\Exercicio 6 aula.deps.json
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\bin\Debug\net6.0\Exercicio 6 aula.runtimeconfig.json
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\bin\Debug\net6.0\Exercicio 6 aula.dll
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\bin\Debug\net6.0\Exercicio 6 aula.pdb
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.csproj.AssemblyReference.cache
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.AssemblyInfoInputs.cache
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.AssemblyInfo.cs
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.csproj.CoreCompileInputs.cache
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.dll
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\refint\Exercicio 6 aula.dll
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.pdb
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\Exercicio 6 aula.genruntimeconfig.cache
+C:\Users\Letícia\Desktop\programas c#\Exercicio 6 aula\Exercicio 6 aula\obj\Debug\net6.0\ref\Exercicio 6 aula.dll

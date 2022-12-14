@@ -1,0 +1,15 @@
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\bin\Debug\net6.0\Date.Time.exe
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\bin\Debug\net6.0\Date.Time.deps.json
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\bin\Debug\net6.0\Date.Time.runtimeconfig.json
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\bin\Debug\net6.0\Date.Time.dll
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\bin\Debug\net6.0\Date.Time.pdb
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.csproj.AssemblyReference.cache
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.AssemblyInfoInputs.cache
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.AssemblyInfo.cs
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.csproj.CoreCompileInputs.cache
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.dll
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\refint\Date.Time.dll
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.pdb
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\Date.Time.genruntimeconfig.cache
+C:\Users\Letícia\Desktop\programas c#\Date.Time\Date.Time\obj\Debug\net6.0\ref\Date.Time.dll
